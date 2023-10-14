@@ -1,0 +1,14 @@
+E:\greekbrain codes\seminar6\task41\bin\Debug\net7.0\task41.exe
+E:\greekbrain codes\seminar6\task41\bin\Debug\net7.0\task41.deps.json
+E:\greekbrain codes\seminar6\task41\bin\Debug\net7.0\task41.runtimeconfig.json
+E:\greekbrain codes\seminar6\task41\bin\Debug\net7.0\task41.dll
+E:\greekbrain codes\seminar6\task41\bin\Debug\net7.0\task41.pdb
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\task41.AssemblyInfoInputs.cache
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\task41.AssemblyInfo.cs
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\task41.csproj.CoreCompileInputs.cache
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\task41.dll
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\refint\task41.dll
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\task41.pdb
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\task41.genruntimeconfig.cache
+E:\greekbrain codes\seminar6\task41\obj\Debug\net7.0\ref\task41.dll

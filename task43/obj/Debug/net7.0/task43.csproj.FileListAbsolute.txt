@@ -1,0 +1,4 @@
+E:\greekbrain codes\seminar6\task43\obj\Debug\net7.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+E:\greekbrain codes\seminar6\task43\obj\Debug\net7.0\task43.AssemblyInfoInputs.cache
+E:\greekbrain codes\seminar6\task43\obj\Debug\net7.0\task43.AssemblyInfo.cs
+E:\greekbrain codes\seminar6\task43\obj\Debug\net7.0\task43.csproj.CoreCompileInputs.cache
